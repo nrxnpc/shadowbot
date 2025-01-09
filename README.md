@@ -1,6 +1,6 @@
 # 🔑 Key Purchase Bot
 
-**Key Purchase Bot** is a Telegram bot that allows users to buy any unique keys using telegram virtual currency ⭐️.
+**Key Purchase Bot** is a simple Telegram bot that allows users to buy any unique keys using telegram virtual currency ⭐️.
 
 ## 🛠 Features
 
